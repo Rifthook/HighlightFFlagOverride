@@ -5,6 +5,7 @@ using System.IO;
 using System.Text;
 
 Console.WriteLine("Rifthook Highlight FFlag Overrider\nStarting in 1 second.");
+
 Thread.Sleep(1000);
 Console.WriteLine("\nGetting latest Roblox version..");
 

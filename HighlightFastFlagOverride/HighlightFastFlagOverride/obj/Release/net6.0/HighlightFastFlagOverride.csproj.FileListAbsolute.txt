@@ -13,3 +13,7 @@ D:\GitHub\HighlightFFlagOverride\HighlightFastFlagOverride\HighlightFastFlagOver
 D:\GitHub\HighlightFFlagOverride\HighlightFastFlagOverride\HighlightFastFlagOverride\obj\Release\net6.0\HighlightFastFlagOverride.pdb
 D:\GitHub\HighlightFFlagOverride\HighlightFastFlagOverride\HighlightFastFlagOverride\obj\Release\net6.0\HighlightFastFlagOverride.genruntimeconfig.cache
 D:\GitHub\HighlightFFlagOverride\HighlightFastFlagOverride\HighlightFastFlagOverride\obj\Release\net6.0\ref\HighlightFastFlagOverride.dll
+D:\GitHub\HighlightFFlagOverride\HighlightFastFlagOverride\HighlightFastFlagOverride\bin\Release\net6.0\HighlightFastFlagOverride.dll.manifest
+D:\GitHub\HighlightFFlagOverride\HighlightFastFlagOverride\HighlightFastFlagOverride\bin\Release\net6.0\HighlightFastFlagOverride.application
+D:\GitHub\HighlightFFlagOverride\HighlightFastFlagOverride\HighlightFastFlagOverride\obj\Release\net6.0\HighlightFastFlagOverride.dll.manifest
+D:\GitHub\HighlightFFlagOverride\HighlightFastFlagOverride\HighlightFastFlagOverride\obj\Release\net6.0\HighlightFastFlagOverride.application

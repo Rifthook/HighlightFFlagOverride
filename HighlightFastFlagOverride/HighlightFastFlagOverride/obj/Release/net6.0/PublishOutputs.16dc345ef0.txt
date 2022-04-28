@@ -1,0 +1,5 @@
+D:\GitHub\HighlightFFlagOverride\HighlightFastFlagOverride\HighlightFastFlagOverride\bin\Release\net6.0\publish\HighlightFastFlagOverride.exe
+D:\GitHub\HighlightFFlagOverride\HighlightFastFlagOverride\HighlightFastFlagOverride\bin\Release\net6.0\publish\HighlightFastFlagOverride.dll
+D:\GitHub\HighlightFFlagOverride\HighlightFastFlagOverride\HighlightFastFlagOverride\bin\Release\net6.0\publish\HighlightFastFlagOverride.deps.json
+D:\GitHub\HighlightFFlagOverride\HighlightFastFlagOverride\HighlightFastFlagOverride\bin\Release\net6.0\publish\HighlightFastFlagOverride.runtimeconfig.json
+D:\GitHub\HighlightFFlagOverride\HighlightFastFlagOverride\HighlightFastFlagOverride\bin\Release\net6.0\publish\HighlightFastFlagOverride.pdb
